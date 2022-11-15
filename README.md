@@ -8,5 +8,5 @@
 
 <div id= "badges" align="center">
   <a href= "https://www.linkedin.com/in/matiasandresalegre" target="_blank">
-  <img alt="Linkedin" src="https://img.shields.io/azure-devops/build/linkedin/mati330/2?label=linkedin&logo=linkedin&style=social">
+  <img alt="Linkedin" src="https://img.shields.io/badge/Linkedin-Link-azul">
 </a>
