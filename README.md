@@ -1,18 +1,12 @@
-### Hi there 👋
 
-<!--
-**Mati330/Mati330** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div id= "header" align= "center">
+  <img src="https://media.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.gif" width= "200"/>
+  <h1 align="center">Hola, mi nombre es Matias Alegre.</h1>
+  <h3 align="center">Me gusta crear cosas e investigar.</h3>
+</div>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-https://img.shields.io/badge/<LABEL>-<MESSAGE>-<COLOR>
-https://img.shields.io/static/v1?label=<LABEL>&message=<Python>&color=<COLOR>
+<div id= "badges" align="center">
+  <a href= "linkedin.com/in/matiasandresalegre">
+  <img alt="Azure DevOps builds" src="https://img.shields.io/azure-devops/build/linkedin/Shields.io/1?logo=linkedin&style=social">
+</a>
