@@ -7,6 +7,6 @@
 
 
 <div id= "badges" align="center">
-  <a href= "linkedin.com/in/matiasandresalegre">
-  <img alt="Azure DevOps builds" src="https://img.shields.io/azure-devops/build/linkedin/Shields.io/1?logo=linkedin&style=social">
+  <a href= "https://www.linkedin.com/in/matiasandresalegre" target="_blank">
+  <img alt="Linkedin" src="https://img.shields.io/azure-devops/build/linkedin/Shields.io/1?logo=linkedin&style=social">
 </a>
